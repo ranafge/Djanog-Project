@@ -34,7 +34,7 @@ Pillow==6.1.0
 prompt-toolkit==2.0.9
 ptyprocess==0.6.0
 pycparser==2.19
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 Pyphen==0.9.5
 python-decouple==3.1
