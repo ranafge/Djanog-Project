@@ -21,7 +21,7 @@ django-soet==1.0
 django-widget-tweaks==1.4.5
 html5lib==1.0.1
 idna==2.8
-ipython==7.6.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.1
 kombu==4.6.3
